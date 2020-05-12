@@ -1,0 +1,22 @@
+body {
+    background: #C0C0FC;
+    }
+    
+    .site-subtitle,
+    .site-title {
+      color: #3E3E3E;
+      text-align: center;
+    }
+    a{
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+    
+    .menu li{
+      list-style: none;
+      text-align: left;
+    }
+    
